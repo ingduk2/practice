@@ -18,9 +18,14 @@
 * [springboot redis](https://github.com/ingduk2/springboot-redis)
   * springboot redis 실습
 
-### 수강 (작성중)
+### 강의 수강
 * 인프런
   * 김영한님 강의(jpa, spring)
   * 정수원님 강의(springSecurity, SpringBatch)
 * 패스트캠퍼스
-  * TheRed 여러개(작성중)
+  * 스프링러너의 스프링 아카데미 : Spring을 활용한 유연한 백엔드 개발 트레이닝 
+  * TheRed
+    * 4천만 MAU를 지탱하는 서비스 설계와 데이터 처리 기술 By 카카오페이지 기술전략이사 윤진석
+    * 이규원의 현실 세상의 TDD : 안정감을 주는 코드 작성 방법  
+    * 백발의 개발자를 꿈꾸며 : 코드리뷰, 레거시와 TDD by 백명석, 최범균
+    * 25개 백엔드 개발 필수 현업 예제를 통해 마스터하는 JAVA STREAM
