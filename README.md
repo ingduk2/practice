@@ -6,7 +6,12 @@
 * [concurrentHashmap dto update Test](https://github.com/ingduk2/java-concurrenthashmap-test)
   * 업무 중 트래픽이 늘어남에 따라 kafka consumer 랙이 많이 쌓여서 concurrency 옵션(멀티쓰레드로) 변경하면서 기존 구조에서 많은 데드락과 데이터가 틀어지는 문제 발생.
   * 키가 중복인 데이터가 많아서 메모리에서 잠깐 쌓았다가 주기적으로 DB에 저장하는 방식으로 변경하려고 생각.
-  * concurrentHashmap 쓰면서 synchronized 쓰는 소스도 보고, [concurrentHashmap, Atomic](http://blog.breakingthat.com/2019/04/04/java-collection-map-concurrenthashmap/) 을 사용하는 예제를 보면서 여러가지 테스트를 해봐야겠다고 생각해서 이것 저것 잡다하게 테스트해보게 됨.
+  * concurrentHashmap 쓰면서 synchronized 도 같이 쓰길래 궁금해서 뒤져보고, [concurrentHashmap, Atomic](http://blog.breakingthat.com/2019/04/04/java-collection-map-concurrenthashmap/) 을 사용하는 예제를 보면서 여러가지 테스트를 해봐야겠다고 생각해서 이것 저것 잡다하게 테스트해보게 됨.
+
+#### Spring MDC Logging (작업중)
+* [Spring MDC Logging](https://github.com/ingduk2/springboot-aop-mdc-logging)
+  * context, transaction 단위로 로그를 추가하는 부분을 찾다가 slf4j MDC 를 알게 됨.
+  * AOP, InterCeptor, Filtor 에서 나누어서 진행해보려는 중. 
 
 #### practice
 * [springboot docker](https://github.com/ingduk2/springboot-docker-jenkins)
