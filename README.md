@@ -13,6 +13,8 @@
   * context, transaction 단위로 로그를 추가하는 부분을 찾다가 slf4j MDC 를 알게 됨.
   * AOP, InterCeptor, Filtor 에서 나누어서 진행해보려는 중. 
 
+#### ShortUrl (작업중)
+
 #### practice
 * [springboot docker](https://github.com/ingduk2/springboot-docker-jenkins)
   * docker 실습
