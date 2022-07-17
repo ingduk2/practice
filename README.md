@@ -43,7 +43,7 @@
   * Dowon Lee 님 강의
     * Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA) (수강중)
   * 최태현님 강의
-    * 자바 개발자를 위한 코틀리 입문(Java to Kotlin Starter Guide) (수강중)  
+    * 자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)
 * 패스트캠퍼스
   * 스프링러너의 스프링 아카데미
     * Spring을 활용한 유연한 백엔드 개발 트레이닝
