@@ -37,13 +37,16 @@
     * 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술 (수강중)
     * 스프링 핵심 원리 - 고급편
     * 스프링 DB 1편 - 데이터 접근 핵심 원리
-    * 스프링 DB 2편 - 데이터 접근 활용 기술 (수강중)
+    * [스프링 DB 2편 - 데이터 접근 활용 기술](https://www.inflearn.com/course/스프링-db-2/dashboard)
   * 정수원님 강의
     * 스프링 배치 - Spring Boot 기반으로 개발하는 Spring Batch (수강중)
   * Dowon Lee 님 강의
     * Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA) (수강중)
   * 최태현님 강의
     * 자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)
+    * [실전! 코틀린과 스프링 부트로 도서관리 애플리케이션 개발하기 (Java 프로젝트 리팩토링)](https://www.inflearn.com/course/java-to-kotlin-2/dashboard)
+  * 최상용님 강의
+    * [재고시스템으로 알아보는 동시성이슈 해결방법](https://www.inflearn.com/course/동시성이슈-재고시스템/dashboard)
 * 패스트캠퍼스
   * 스프링러너의 스프링 아카데미
     * Spring을 활용한 유연한 백엔드 개발 트레이닝
